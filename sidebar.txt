@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mca:home|Door43 (mca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mca|d43-mca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mca/archive/master.zip|d43-mca.zip]]
+
+**Recent Changes**
+{{changes>ns = mca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mca|Ethnologue data]]
+
